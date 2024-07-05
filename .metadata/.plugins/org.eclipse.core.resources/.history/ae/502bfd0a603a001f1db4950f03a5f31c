@@ -1,0 +1,12 @@
+package srf;
+
+import java.lang.runtime.ObjectMethods;
+
+public class Application extends ObjectMethods {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
